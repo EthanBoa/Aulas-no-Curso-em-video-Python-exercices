@@ -16,17 +16,17 @@ peso=input('Quanto tu pesas?')
 print(nome, idade, peso)
 
 print('Desafios')
-print('Desafio 1')
+print('Desafio 001')
 nome=input('Qual e o seu nome?')
 print('Ola', nome,'! Prazer em te conhece!')
 
-print('Desafio 2')
+print('Desafio 002')
 dia=input('Em que dia voce nasceu?')
 mes=input('Em qual mes voce nasceu?')
 ano=input('Em que nao vc nasceu?')
 print('Voce nasceu no dia', dia, 'do mes de', mes, 'no ano de ', ano, 'Correcto?')
 
-print('Desafio 3')
+print('Desafio 003')
 n=int(input('Digite um numero:'))
 n1=int(input('Digite outro numero:'))
 soma= n + n1

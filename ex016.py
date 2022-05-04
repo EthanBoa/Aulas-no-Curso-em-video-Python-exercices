@@ -1,4 +1,4 @@
 import math
 n = float(input("Digite um numero:"))
-i = math.ceil(n)
+i = math.trunc(n)
 print("O numero {} tem parte inteira {}".format(n, i))
